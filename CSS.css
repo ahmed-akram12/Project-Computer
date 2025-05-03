@@ -1,0 +1,30 @@
+﻿ .p {
+	font-family: "Times New Roman";
+	font-size: 42pt;
+	text-decoration: underline;
+	color: #990000;
+}
+.h1 {
+	font-family: Arial;
+	font-size: 24pt;
+	color: #003300;
+	text-decoration: underline;
+
+}
+.h2 {
+	font-size: 20pt;
+	font-family: Arial;
+	color: #006600;
+}
+.h3 {
+	font-size: 16pt;
+	font-family: Arial;
+	color: #008000;
+}
+.h4 {
+	text-decoration: underline;
+	font-style: bold;
+	font-family: serif;
+	font-size: 14pt;
+	color: #000080;
+}
